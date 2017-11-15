@@ -1,10 +1,8 @@
 ---
 layout: post
-title: You're up and running!
+title: Welcome to my life!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Hi! My name is Nate Burger! I currently live in the big city, Des Moines, Iowa. I received two Bachelor's of Science Degrees in Management Information Systems and Supply Chain Management in December 2016 from Iowa State University that I put to use as a Business Systems Analyst at Ruan Transportation. My day to day focus is on End User Support, Configuration of the User Interface, and IT Continuous Improvement.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+As I have kicked off my career I have found a passion for routine and travel. This site is an attempt for me to get better at both of those things, while working on my development skills.
