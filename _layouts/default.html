@@ -13,9 +13,10 @@
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
-      <script>
+    <script>
       (function($){
     var gif = [];
+        
     $('figure.animated_gif_frame img').each(function(i, n) {
         var data = $(n).attr('src').replace(/\.(png|jpg)$/,'.gif');
         gif.push(data);
@@ -33,7 +34,9 @@
           }
         });
     });
+        
     var image = [];
+        
     $.each(gif, function(index) {
         image[index]     = new Image();
         image[index].src = gif[index];
