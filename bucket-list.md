@@ -1,5 +1,6 @@
-layout	title	permalink	comments
-bucket-list
-Impossible List
-/impossible-list/
-true
+---
+layout: bucket-list
+title: Impossible List
+permalink: /Live-Life-list/
+comments: true
+---
