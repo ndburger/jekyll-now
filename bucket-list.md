@@ -6,7 +6,11 @@ comments: true
 ---
 
 
-Tester2
+# Travel
+	1. Visit all 50 States (35 out of 50)
+	2. Visit all 7 Continents (2 out of 7
+	3. Visit the 7 Natural Wonders
+		-
 <script src="https://www.amcharts.com/lib/3/ammap.js" type="text/javascript"></script>
 <script src="https://www.amcharts.com/lib/3/maps/js/usaHigh.js" type="text/javascript"></script>
 <script src="https://www.amcharts.com/lib/3/themes/light.js" type="text/javascript"></script>
