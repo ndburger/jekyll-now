@@ -1,6 +1,6 @@
 ---
 layout: bucket-list
-title: Impossible List
+title: Live Life List
 permalink: /Live-Life-list/
 comments: true
 ---
