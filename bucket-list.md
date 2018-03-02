@@ -186,14 +186,14 @@ rollOverOutlineColor : "#000000"
 </script>
 
 # Fitness
-~1. Run a 5k~ (Cross Country in High School)
+1. ~~Run a 5k~~ (Dubuque Turkey Trot 2013)
 2. Run a 10k
 3. Run under a 6 minute mile post high school
 4. Do 100 pushup in one set
 5. Do 20 pull ups in one set
 
-<a href="/about"><img src="ndburger.github.io/images/Fitness.jpg.png"/></a>
-![alt text](ndburger.github.io/images/Fitness.jpg.png "My Final Intramural Basketball Game at Iowa State"){: .center-image }
+<a href="/about"><img src="ndburger.github.io/images/Fitness.jpg"/></a>
+![alt text](ndburger.github.io/images/Fitness.jpg "My Final Intramural Basketball Game at Iowa State"){: .center-image }
 
 # Habit Building
 1. Do a morning workout 100 days in a row
