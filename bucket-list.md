@@ -192,6 +192,7 @@ rollOverOutlineColor : "#000000"
 4. Do 100 pushup in one set
 5. Do 20 pull ups in one set
 
+<a href="/about"><img src="ndburger.github.io/images/Fitness.jpg.png"/></a>
 ![alt text](ndburger.github.io/images/Fitness.jpg.png "My Final Intramural Basketball Game at Iowa State"){: .center-image }
 
 # Habit Building
