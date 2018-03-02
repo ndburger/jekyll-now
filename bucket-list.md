@@ -193,7 +193,7 @@ rollOverOutlineColor : "#000000"
 5. Do 20 pull ups in one set
 
 <a href="/about"><img src="ndburger.github.io/images/Fitness.jpg"/></a>
-![alt text](ndburger.github.io/images/Fitness.jpg "My Final Intramural Basketball Game at Iowa State"){: .center-image }
+![alt text](ndburger.github.io/images/Fitness2.jpg "My Final Intramural Basketball Game at Iowa State"){: .center-image }
 
 # Habit Building
 1. Do a morning workout 100 days in a row
