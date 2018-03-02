@@ -4,7 +4,7 @@ title: Live Life List
 permalink: /Live-Life-list/
 comments: true
 ---
-
+The idea to make an Impossible List (and to build this website) came from a friend of mine that I look up to for the amount of success he has been able to achieve at a young age, Brendon Geils. Check out his list at [BrendonGeils.com](brendongeils.com), and check out all of the cool technology he has been working on that I cannot even fathom understanding.
 
 # Travel
 1. Visit all 50 States (35 out of 50)
@@ -184,3 +184,24 @@ rollOverOutlineColor : "#000000"
 }
 });
 </script>
+
+# Fitness
+~1. Run a 5k~ (Cross Country in High School)
+2. Run a 10k
+3. Run under a 6 minute mile post high school
+4. Do 100 pushup in one set
+5. Do 20 pull ups in one set
+![alt text](ndburger.github.io/images/Fitness.jpg.pngg "My Final Intramural Basketball Game at Iowa State"."){: .center-image }
+
+# Habit Building
+1. Do a morning workout 100 days in a row
+2. Meditate for 5 minutes for 30 days in a row
+3. Read 25 pages a day for 50 days
+
+# Skill Goals
+1. Learn to code
+	- Python
+	- Java
+	- SQL
+	- PHP
+2. Become fluent in a foreign language
