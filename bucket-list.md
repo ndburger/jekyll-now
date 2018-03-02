@@ -191,7 +191,8 @@ rollOverOutlineColor : "#000000"
 3. Run under a 6 minute mile post high school
 4. Do 100 pushup in one set
 5. Do 20 pull ups in one set
-![alt text](ndburger.github.io/images/Fitness.jpg.pngg "My Final Intramural Basketball Game at Iowa State"."){: .center-image }
+
+![alt text](ndburger.github.io/images/Fitness.jpg.png "My Final Intramural Basketball Game at Iowa State"){: .center-image }
 
 # Habit Building
 1. Do a morning workout 100 days in a row
