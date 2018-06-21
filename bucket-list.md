@@ -1,10 +1,10 @@
 ---
 layout: bucket-list
-title: Live Life List
-permalink: /Live-Life-list/
+title: Impossible List
+permalink: /Impossible-list/
 comments: true
 ---
-The idea to make an Impossible List (and to build this website) came from a friend of mine that I look up to for the amount of success he has been able to achieve at a young age, Brendon Geils. Check out his list at [BrendonGeils.com](http://brendongeils.com/impossible-list/), and check out all of the cool technology he has been working on that I cannot even fathom understanding.
+
 
 # Travel
 1. Visit all 50 States (35 out of 50)
