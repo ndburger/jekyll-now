@@ -188,6 +188,7 @@ rollOverOutlineColor : "#000000"
 # Fitness
 1. ~~Run a 5k~~ (Dubuque Turkey Trot 2013)
 2. Run a 10k
+3. ~~Run a 20k~~ (39th Dam to Dam 2018)
 3. Run under a 6 minute mile post high school
 4. Do 100 pushup in one set
 5. Do 20 pull ups in one set
