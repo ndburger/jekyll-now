@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Blog
-permaling: /blog/
+permalink: /blog/
 comments: true
 ---
 
