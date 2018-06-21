@@ -8,7 +8,7 @@ comments: true
 
 # Travel
 1. Visit all 50 States (35 out of 50)
-2. Visit all 7 Continents (2 out of 7)
+2. Visit all 7 Continents (3 out of 7)
 3. Visit the 7 Natural Wonders
 		-
 <script src="https://www.amcharts.com/lib/3/ammap.js" type="text/javascript"></script>
@@ -193,7 +193,7 @@ rollOverOutlineColor : "#000000"
 4. Do 100 pushup in one set
 5. Do 20 pull ups in one set
 
-<a href="/about"><img src="ndburger.github.io/images/Fitness2.jpg"/></a>
+
 ![alt text](http://ndburger.github.io/images/Fitness2.jpg "My Final Intramural Basketball Game at Iowa State")
 
 # Habit Building
