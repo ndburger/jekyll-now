@@ -6,4 +6,4 @@ comments: true
 ---
 
 # Chicken Tendies
-[Raising Canes](https://ndburger.github.io/blog/Raising-Canes)
+[Raising Canes](https://ndburger.github.io/Raising-Canes)
