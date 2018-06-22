@@ -6,4 +6,4 @@ comments: true
 ---
 
 # Chicken Tendies
-![alt text](http://ndburger.github.io/images/canes2.jpg "Raising Canes")
+[Raising Canes](https://ndburger.github.io/blog/Raising-Canes)
